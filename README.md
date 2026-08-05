@@ -36,4 +36,20 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shruuu158/leetcodesolution/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shruuu158/leetcodesolution/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shruuu158/leetcodesolution/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shruuu158/leetcodesolution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
