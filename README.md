@@ -14,6 +14,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
@@ -37,6 +38,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -156,4 +158,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
