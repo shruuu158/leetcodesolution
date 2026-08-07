@@ -11,6 +11,7 @@
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/shruuu158/leetcodesolution/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
@@ -51,6 +52,7 @@
 | [0016-3sum-closest](https://github.com/shruuu158/leetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@
 | [0008-string-to-integer-atoi](https://github.com/shruuu158/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/shruuu158/leetcodesolution/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
+| [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
