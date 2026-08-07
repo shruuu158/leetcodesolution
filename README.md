@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
@@ -26,6 +27,7 @@
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
+| [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -45,6 +47,7 @@
 | [0016-3sum-closest](https://github.com/shruuu158/leetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 <!---LeetCode Topics End-->
