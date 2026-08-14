@@ -19,6 +19,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/shruuu158/leetcodesolution/tree/master/1122-relative-sort-array) |
@@ -52,6 +53,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shruuu158/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruuu158/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
@@ -83,6 +85,7 @@
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/shruuu158/leetcodesolution/tree/master/0917-reverse-only-letters) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
