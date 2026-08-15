@@ -26,6 +26,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/shruuu158/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@
 | [1122-relative-sort-array](https://github.com/shruuu158/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/shruuu158/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
@@ -57,6 +59,7 @@
 | [1051-height-checker](https://github.com/shruuu158/leetcodesolution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shruuu158/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 ## Stack
