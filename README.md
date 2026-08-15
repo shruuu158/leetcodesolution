@@ -64,6 +64,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/shruuu158/leetcodesolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/shruuu158/leetcodesolution/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/shruuu158/leetcodesolution/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shruuu158/leetcodesolution/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
