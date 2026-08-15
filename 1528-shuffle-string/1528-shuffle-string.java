@@ -9,6 +9,7 @@ class Solution {
                 for(int j=0;j<indices.length;j++){
                         if(i==indices[j]){
                             str+=s.charAt(j);
+                            break;
                         }
                 }
         }
