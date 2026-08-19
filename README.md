@@ -12,6 +12,7 @@
 | [0137-single-number-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/shruuu158/leetcodesolution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/shruuu158/leetcodesolution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 ## Quicksort
 |  |
