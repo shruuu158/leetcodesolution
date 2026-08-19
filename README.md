@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruuu158/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
@@ -180,6 +182,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
