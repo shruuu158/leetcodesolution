@@ -38,6 +38,7 @@
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
