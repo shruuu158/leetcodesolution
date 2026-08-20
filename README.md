@@ -45,6 +45,7 @@
 | [2951-find-the-peaks](https://github.com/shruuu158/leetcodesolution/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
+| [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
