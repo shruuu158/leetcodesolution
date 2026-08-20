@@ -176,6 +176,7 @@
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shruuu158/leetcodesolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3456-find-special-substring-of-length-k](https://github.com/shruuu158/leetcodesolution/tree/master/3456-find-special-substring-of-length-k) |
 ## Math
 |  |
@@ -258,4 +259,5 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
