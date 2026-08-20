@@ -16,6 +16,7 @@
 | [0260-single-number-iii](https://github.com/shruuu158/leetcodesolution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/shruuu158/leetcodesolution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shruuu158/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -72,6 +73,7 @@
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shruuu158/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shruuu158/leetcodesolution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
