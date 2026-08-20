@@ -29,6 +29,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/shruuu158/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/shruuu158/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shruuu158/leetcodesolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruuu158/leetcodesolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -175,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shruuu158/leetcodesolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shruuu158/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
