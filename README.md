@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/shruuu158/leetcodesolution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shruuu158/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +125,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
