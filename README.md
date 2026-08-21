@@ -35,6 +35,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruuu158/leetcodesolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shruuu158/leetcodesolution/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
