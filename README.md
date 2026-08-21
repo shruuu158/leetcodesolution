@@ -175,6 +175,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/shruuu158/leetcodesolution/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/shruuu158/leetcodesolution/tree/master/0830-positions-of-large-groups) |
 | [0917-reverse-only-letters](https://github.com/shruuu158/leetcodesolution/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shruuu158/leetcodesolution/tree/master/1108-defanging-an-ip-address) |
