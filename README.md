@@ -180,6 +180,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shruuu158/leetcodesolution/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shruuu158/leetcodesolution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
