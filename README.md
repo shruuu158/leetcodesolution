@@ -122,6 +122,7 @@
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shruuu158/leetcodesolution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shruuu158/leetcodesolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
