@@ -41,6 +41,7 @@
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/shruuu158/leetcodesolution/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -67,6 +68,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -189,6 +191,7 @@
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shruuu158/leetcodesolution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shruuu158/leetcodesolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -229,6 +232,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
@@ -270,6 +274,7 @@
 | [0137-single-number-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/shruuu158/leetcodesolution/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Quicksort
 |  |
 | ------- |
