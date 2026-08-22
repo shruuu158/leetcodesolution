@@ -39,6 +39,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/shruuu158/leetcodesolution/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -134,6 +135,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
 ## Queue
 |  |
 | ------- |
