@@ -45,6 +45,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shruuu158/leetcodesolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -73,6 +74,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
@@ -198,6 +200,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/shruuu158/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shruuu158/leetcodesolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -239,6 +242,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shruuu158/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
