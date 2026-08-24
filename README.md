@@ -106,6 +106,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/shruuu158/leetcodesolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
@@ -127,6 +128,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shruuu158/leetcodesolution/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/shruuu158/leetcodesolution/tree/master/0917-reverse-only-letters) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
@@ -191,6 +193,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/shruuu158/leetcodesolution/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/shruuu158/leetcodesolution/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shruuu158/leetcodesolution/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shruuu158/leetcodesolution/tree/master/1108-defanging-an-ip-address) |
@@ -295,6 +298,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
