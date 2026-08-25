@@ -55,6 +55,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/shruuu158/leetcodesolution/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shruuu158/leetcodesolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shruuu158/leetcodesolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
