@@ -39,6 +39,7 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shruuu158/leetcodesolution/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/shruuu158/leetcodesolution/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruuu158/leetcodesolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
@@ -111,6 +112,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruuu158/leetcodesolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -310,4 +312,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruuu158/leetcodesolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
