@@ -52,6 +52,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shruuu158/leetcodesolution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -106,6 +107,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shruuu158/leetcodesolution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +155,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |
