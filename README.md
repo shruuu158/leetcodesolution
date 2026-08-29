@@ -47,6 +47,7 @@
 | [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/shruuu158/leetcodesolution/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -332,4 +333,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruuu158/leetcodesolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
