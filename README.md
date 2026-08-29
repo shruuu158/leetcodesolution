@@ -47,6 +47,7 @@
 | [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/shruuu158/leetcodesolution/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1629-slowest-key](https://github.com/shruuu158/leetcodesolution/tree/master/1629-slowest-key) |
 | [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
@@ -219,6 +220,7 @@
 | [1446-consecutive-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
+| [1629-slowest-key](https://github.com/shruuu158/leetcodesolution/tree/master/1629-slowest-key) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shruuu158/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
