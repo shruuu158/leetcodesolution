@@ -60,6 +60,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/shruuu158/leetcodesolution/tree/master/2951-find-the-peaks) |
@@ -237,6 +238,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [3456-find-special-substring-of-length-k](https://github.com/shruuu158/leetcodesolution/tree/master/3456-find-special-substring-of-length-k) |
 ## Math
 |  |
