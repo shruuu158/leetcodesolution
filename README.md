@@ -58,6 +58,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
@@ -87,6 +88,7 @@
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruuu158/leetcodesolution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -112,6 +114,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shruuu158/leetcodesolution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -152,6 +155,7 @@
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
