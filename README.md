@@ -51,6 +51,7 @@
 | [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/shruuu158/leetcodesolution/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -234,6 +235,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shruuu158/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/shruuu158/leetcodesolution/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
