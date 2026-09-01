@@ -69,6 +69,7 @@
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 | [3903-smallest-stable-index-i](https://github.com/shruuu158/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
