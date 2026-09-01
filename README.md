@@ -54,6 +54,7 @@
 | [1816-truncate-sentence](https://github.com/shruuu158/leetcodesolution/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shruuu158/leetcodesolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shruuu158/leetcodesolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -253,6 +254,7 @@
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shruuu158/leetcodesolution/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shruuu158/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shruuu158/leetcodesolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -354,4 +356,16 @@
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
