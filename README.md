@@ -74,6 +74,7 @@
 | [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 | [3903-smallest-stable-index-i](https://github.com/shruuu158/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/3912-valid-elements-in-an-array) |
+| [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -251,6 +252,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [3456-find-special-substring-of-length-k](https://github.com/shruuu158/leetcodesolution/tree/master/3456-find-special-substring-of-length-k) |
+| [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+| [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 ## Ternary Search
 |  |
 | ------- |
