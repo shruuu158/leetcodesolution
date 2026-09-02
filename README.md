@@ -73,6 +73,7 @@
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 | [3903-smallest-stable-index-i](https://github.com/shruuu158/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
+| [3912-valid-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/3912-valid-elements-in-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
