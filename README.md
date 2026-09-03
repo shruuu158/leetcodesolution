@@ -61,6 +61,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/shruuu158/leetcodesolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -98,6 +99,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shruuu158/leetcodesolution/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -297,6 +299,7 @@
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shruuu158/leetcodesolution/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
 ## Greedy
 |  |
