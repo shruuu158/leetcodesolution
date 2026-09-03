@@ -71,6 +71,7 @@
 | [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shruuu158/leetcodesolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/shruuu158/leetcodesolution/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/shruuu158/leetcodesolution/tree/master/3663-find-the-least-frequent-digit) |
@@ -260,6 +261,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shruuu158/leetcodesolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3456-find-special-substring-of-length-k](https://github.com/shruuu158/leetcodesolution/tree/master/3456-find-special-substring-of-length-k) |
 | [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 ## Math
