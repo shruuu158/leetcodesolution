@@ -49,6 +49,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1629-slowest-key](https://github.com/shruuu158/leetcodesolution/tree/master/1629-slowest-key) |
 | [1652-defuse-the-bomb](https://github.com/shruuu158/leetcodesolution/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/shruuu158/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shruuu158/leetcodesolution/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/shruuu158/leetcodesolution/tree/master/1816-truncate-sentence) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruuu158/leetcodesolution/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/shruuu158/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 ## Bucket Sort
 |  |
 | ------- |
