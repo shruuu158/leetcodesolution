@@ -68,6 +68,7 @@
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
@@ -376,6 +377,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 ## Ternary Search
 |  |
