@@ -250,6 +250,7 @@
 | [1446-consecutive-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/shruuu158/leetcodesolution/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1629-slowest-key](https://github.com/shruuu158/leetcodesolution/tree/master/1629-slowest-key) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shruuu158/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shruuu158/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
