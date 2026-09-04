@@ -151,6 +151,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruuu158/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruuu158/leetcodesolution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shruuu158/leetcodesolution/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/shruuu158/leetcodesolution/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -178,6 +179,7 @@
 | [1089-duplicate-zeros](https://github.com/shruuu158/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/shruuu158/leetcodesolution/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shruuu158/leetcodesolution/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
@@ -259,6 +261,7 @@
 | [1816-truncate-sentence](https://github.com/shruuu158/leetcodesolution/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shruuu158/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shruuu158/leetcodesolution/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shruuu158/leetcodesolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shruuu158/leetcodesolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
