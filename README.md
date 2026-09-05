@@ -66,6 +66,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
+| [2418-sort-the-people](https://github.com/shruuu158/leetcodesolution/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2553-separate-the-digits-in-an-array) |
@@ -112,6 +113,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/shruuu158/leetcodesolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2347-best-poker-hand](https://github.com/shruuu158/leetcodesolution/tree/master/2347-best-poker-hand) |
+| [2418-sort-the-people](https://github.com/shruuu158/leetcodesolution/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/shruuu158/leetcodesolution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,6 +142,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shruuu158/leetcodesolution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shruuu158/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/shruuu158/leetcodesolution/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shruuu158/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/shruuu158/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shruuu158/leetcodesolution/tree/master/2733-neither-minimum-nor-maximum) |
@@ -276,6 +279,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/shruuu158/leetcodesolution/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/shruuu158/leetcodesolution/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/shruuu158/leetcodesolution/tree/master/2788-split-strings-by-separator) |
