@@ -83,6 +83,7 @@
 | [3861-minimum-capacity-box](https://github.com/shruuu158/leetcodesolution/tree/master/3861-minimum-capacity-box) |
 | [3903-smallest-stable-index-i](https://github.com/shruuu158/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/3912-valid-elements-in-an-array) |
+| [3917-count-indices-with-opposite-parity](https://github.com/shruuu158/leetcodesolution/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
