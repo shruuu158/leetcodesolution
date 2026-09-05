@@ -77,6 +77,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shruuu158/leetcodesolution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/shruuu158/leetcodesolution/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruuu158/leetcodesolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shruuu158/leetcodesolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/shruuu158/leetcodesolution/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shruuu158/leetcodesolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shruuu158/leetcodesolution/tree/master/3731-find-missing-elements) |
@@ -229,6 +230,7 @@
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shruuu158/leetcodesolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shruuu158/leetcodesolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/shruuu158/leetcodesolution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shruuu158/leetcodesolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shruuu158/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shruuu158/leetcodesolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/shruuu158/leetcodesolution/tree/master/3663-find-the-least-frequent-digit) |
@@ -385,6 +388,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/2553-separate-the-digits-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shruuu158/leetcodesolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3921-score-validator](https://github.com/shruuu158/leetcodesolution/tree/master/3921-score-validator) |
 ## Ternary Search
 |  |
