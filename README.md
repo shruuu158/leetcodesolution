@@ -96,6 +96,7 @@
 | [0001-two-sum](https://github.com/shruuu158/leetcodesolution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shruuu158/leetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
@@ -247,6 +249,7 @@
 | [0008-string-to-integer-atoi](https://github.com/shruuu158/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shruuu158/leetcodesolution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/shruuu158/leetcodesolution/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
