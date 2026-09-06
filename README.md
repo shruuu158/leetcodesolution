@@ -96,6 +96,7 @@
 | [0001-two-sum](https://github.com/shruuu158/leetcodesolution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
@@ -178,6 +179,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shruuu158/leetcodesolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shruuu158/leetcodesolution/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shruuu158/leetcodesolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -370,6 +373,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 ## Counting Sort
 |  |
 | ------- |
