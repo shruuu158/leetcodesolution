@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruuu158/leetcodesolution/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/shruuu158/leetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruuu158/leetcodesolution/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruuu158/leetcodesolution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shruuu158/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shruuu158/leetcodesolution/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
