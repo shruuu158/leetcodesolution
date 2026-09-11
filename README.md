@@ -303,6 +303,7 @@
 | [0007-reverse-integer](https://github.com/shruuu158/leetcodesolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shruuu158/leetcodesolution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/shruuu158/leetcodesolution/tree/master/0258-add-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shruuu158/leetcodesolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shruuu158/leetcodesolution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shruuu158/leetcodesolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -401,6 +402,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shruuu158/leetcodesolution/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shruuu158/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/shruuu158/leetcodesolution/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -425,6 +427,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shruuu158/leetcodesolution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shruuu158/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
