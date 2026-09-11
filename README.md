@@ -163,6 +163,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shruuu158/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shruuu158/leetcodesolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/shruuu158/leetcodesolution/tree/master/0844-backspace-string-compare) |
@@ -259,6 +260,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruuu158/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shruuu158/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shruuu158/leetcodesolution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shruuu158/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shruuu158/leetcodesolution/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
@@ -453,4 +455,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shruuu158/leetcodesolution/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shruuu158/leetcodesolution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
