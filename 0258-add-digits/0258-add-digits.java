@@ -8,7 +8,6 @@ class Solution {
                 num/=10;
             }
             num=sum;
-
         }
         return num;
     }
