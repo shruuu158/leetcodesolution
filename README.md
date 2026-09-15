@@ -195,6 +195,7 @@
 | [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shruuu158/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shruuu158/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
@@ -274,6 +275,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/shruuu158/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
@@ -383,6 +385,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruuu158/leetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/shruuu158/leetcodesolution/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
