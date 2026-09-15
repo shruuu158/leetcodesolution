@@ -105,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/shruuu158/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shruuu158/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
@@ -352,6 +355,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
