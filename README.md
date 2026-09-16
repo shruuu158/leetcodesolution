@@ -106,6 +106,7 @@
 | [0217-contains-duplicate](https://github.com/shruuu158/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/shruuu158/leetcodesolution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
@@ -274,6 +275,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shruuu158/leetcodesolution/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shruuu158/leetcodesolution/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
