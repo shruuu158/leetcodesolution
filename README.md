@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shruuu158/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -109,6 +110,7 @@
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shruuu158/leetcodesolution/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
@@ -146,6 +148,7 @@
 | [0217-contains-duplicate](https://github.com/shruuu158/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
@@ -202,6 +205,7 @@
 | [0202-happy-number](https://github.com/shruuu158/leetcodesolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shruuu158/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shruuu158/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -224,6 +228,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruuu158/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruuu158/leetcodesolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shruuu158/leetcodesolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/shruuu158/leetcodesolution/tree/master/1539-kth-missing-positive-number) |
