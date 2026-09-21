@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/shruuu158/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/shruuu158/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -149,6 +150,7 @@
 | [0242-valid-anagram](https://github.com/shruuu158/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/shruuu158/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
