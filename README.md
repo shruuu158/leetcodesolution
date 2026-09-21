@@ -112,6 +112,7 @@
 | [0268-missing-number](https://github.com/shruuu158/leetcodesolution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shruuu158/leetcodesolution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shruuu158/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
@@ -291,6 +292,7 @@
 | [0290-word-pattern](https://github.com/shruuu158/leetcodesolution/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shruuu158/leetcodesolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/shruuu158/leetcodesolution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shruuu158/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shruuu158/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shruuu158/leetcodesolution/tree/master/0443-string-compression) |
@@ -376,6 +378,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shruuu158/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shruuu158/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shruuu158/leetcodesolution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
