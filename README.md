@@ -32,6 +32,7 @@
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruuu158/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/shruuu158/leetcodesolution/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/shruuu158/leetcodesolution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shruuu158/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -406,6 +407,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/shruuu158/leetcodesolution/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0969-pancake-sorting](https://github.com/shruuu158/leetcodesolution/tree/master/0969-pancake-sorting) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shruuu158/leetcodesolution/tree/master/2078-two-furthest-houses-with-different-colors) |
