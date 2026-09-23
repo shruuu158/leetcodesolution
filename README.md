@@ -28,6 +28,7 @@
 | [0414-third-maximum-number](https://github.com/shruuu158/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/shruuu158/leetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/shruuu158/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruuu158/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
