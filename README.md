@@ -126,6 +126,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shruuu158/leetcodesolution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruuu158/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/shruuu158/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/shruuu158/leetcodesolution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shruuu158/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/shruuu158/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
@@ -311,6 +312,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/shruuu158/leetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/shruuu158/leetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/shruuu158/leetcodesolution/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/shruuu158/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/shruuu158/leetcodesolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/shruuu158/leetcodesolution/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/shruuu158/leetcodesolution/tree/master/0830-positions-of-large-groups) |
